@@ -1,4 +1,6 @@
 xchat-funtime
 =============
 
-Some scripts for xchat/hexchat that I find useful.
+Some useful scripts for xchat/hexchat.
+
+- challenge-xchat.pl: challenge opering script for ratbox/charybdis based ircds.
