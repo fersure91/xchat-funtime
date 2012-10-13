@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 #
 # challenge-xchat.pl
 # Copyright (C) 2006 Lee Hardy <lee -at- leeh.co.uk>
