@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 
-# EDIT: Fersure@IrCQnet: Changed usage to /np - Changed colours - Less verbose output on fail
+# A simple (he)xchat script that shows what you are currently listening to in audacious. Enjoy!
+# Copyright (C) Fersure@freenode 2012
 IRC::register("Audacious-Info", "1.0", "", "");
 IRC::print "Loaded Audacious 1.0";
 IRC::print "Usage: /np";
